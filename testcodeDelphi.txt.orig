@@ -1,0 +1,8 @@
+code text
+changed code
+changed code on server side
+<<<<<<< HEAD
+feature changes
+=======
+changed code on server side again
+>>>>>>> e23c228f3942eab985c80b9a7f49e005b9f023b7
